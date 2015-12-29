@@ -1,1 +1,12 @@
-
+h1 {
+  font-family: arial. helvetica, sans-serif;
+  color: red;
+  padding: 0;
+  font-size: 1.3em;
+  }
+  
+  p {
+    color: green;
+    font-style: italic;
+    
+  }
